@@ -1,2 +1,2 @@
 # Dockerfile 
-Collection of Dockerfiles for bioinformatics tools.
+Collection of Dockerfiles for bioinformatics tools. 
