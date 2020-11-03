@@ -1,2 +1,2 @@
-# bioinformatics-docker
-Dockerfiles for bioinformatics tool images
+# Dockerfile 
+Collection of Dockerfiles for bioinformatics tools.
